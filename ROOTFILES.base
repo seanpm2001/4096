@@ -1,7 +1,10 @@
 /.github/
 /.gitlab/
+/4096GAME/
 /Docs/
+/JS/
 /OldVersions/
+/ProjectWiki/
 /RepoData/
 /.editorconfig
 /.gitattributes
@@ -9,6 +12,7 @@
 /404.html
 /404.jpeg
 /404.md
+/4096.jpg
 /AUTHORS
 /AUTHORS.md
 /AUTOMATE2001.yaml
@@ -18,7 +22,6 @@
 /CREDITS
 /CREDITS.wiki
 /DRM-free_label.en.svg
-/INITIAL_COMMIT.txt
 /INSTALL
 /INSTALL.rst
 /K.desktop
@@ -34,4 +37,3 @@
 /gitlab-ci.yml
 /makefile.mk
 /pull_request_template.md
-/README.md
